@@ -1,0 +1,7 @@
+.gitignore
+*.o
+*.orig
+*.rej
+st
+LEGACY
+FAQ
